@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 6: end of line expected.
+    image brutalist: "brutalist-government-hallway.png"
+                     ^
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Fri May 16 11:01:42 2025
